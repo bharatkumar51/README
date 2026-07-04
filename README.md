@@ -1,31 +1,53 @@
-## About Me
+# Hi, I'm Bharat Kumar 👋
 
-Hi, I'm Bharat kumar.Kesiboyina 👋
+## 👩‍💻 About Me
 
-🎓 Final-year Information Technology (IT) student
+🎓 Final-Year B.Tech Student (Information Technology)
 
-💻 Skilled in C and Python, with a strong interest in building practical software solutions and exploring emerging technologies.
+💻 Skilled in C and Python
 
-🚀 Passionate about Artificial Intelligence, Cloud Computing, and Database Management Systems.
+🤖 Interested in Artificial Intelligence, Cloud Computing, and Database Management Systems
 
-📚 Projects I've worked on:
+🚀 Passionate about researching and learning new technologies
 
-* A database project developed during my second year to strengthen my DBMS fundamentals.
-* An AI Tools Directory project that categorizes AI tools and helps users discover the best free AI tools based on their selected category.
+🌱 Continuously improving my programming, problem-solving, and software development skills
 
-🏆 Certifications:
+🎯 Aspiring Software Engineer, AI Engineer, and Data Scientist
+
+## 🛠 Skills
+
+* C
+* Python
+* Database Management Systems (DBMS)
+* Artificial Intelligence
+* Cloud Computing
+* Git & GitHub
+
+## 📂 Projects
+
+* AI Tools Directory – A platform that categorizes AI tools and displays the top free AI tools based on the selected category
+* Database Management Project – A database application developed during my second year to strengthen DBMS concepts
+
+## 🏆 Certifications
 
 * NPTEL – Human Computer Interaction
 * NPTEL – Blockchain and Its Applications
 * NPTEL – Software Testing
 * NPTEL – Programming in Java
 
-🔍 I enjoy researching new technologies, learning about industry trends, and continuously improving my technical skills.
+## 📚 Currently Learning
 
-🎯 Career Goals:
+* Advanced Python
+* Artificial Intelligence
+* Software Development
+* GitHub and Open Source Contributions
 
-* Software Engineer
-* AI Engineer
-* Data Scientist
+## 📫 Connect with Me
 
-🌱 Currently focused on enhancing my programming, problem-solving, and software development skills while building projects that create real-world impact.
+LinkedIn: www.linkedin.com/in/bharat-kesiboyina
+GitHub: bharatkumar51
+
+Email: bharatkesiboyina@gmail.com
+
+⭐ Thanks for visiting my profile!
+
